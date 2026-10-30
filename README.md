@@ -11,6 +11,24 @@
 
 </div>
 
+```bash
+🔴 🟡 🟢 verloren@edge-node-01:~$ curl -s https://api.verloren.dev/system/telemetry | jq .
+{
+  "status": "UP",
+  "kernel": "Java 21 · Spring Boot 3 · Spring Security 6",
+  "deployment": "AWS EC2 [Docker · Redis · PostgreSQL · Flyway]",
+  "security_subsystem": {
+    "auth_tokens": "RSA-2048 Asymmetric Keypair (Key Rotation Enabled)",
+    "session_guard": "SidLivenessFilter [ALL_AUTHENTICATED | MFA_ONLY]",
+    "abuse_control": "Redis + Bucket4j Distributed Token Buckets",
+    "mfa_cipher": "AES-256-GCM Encrypted TOTP + BCrypt Scoped OTPs"
+  },
+  "tooling_subsystem": "Midnight Compact Plugin [IntelliJ SDK · JFlex Lexer · BNF AST]",
+  "load_validation": "k6 Stress Scenarios [Concurrent Auth · Zero Unhandled Crashes]",
+  "target_roles": "Backend Engineering · Scalable Systems & Security · Core Tooling"
+}
+```
+
 ---
 
 ### 💡 Engineering Philosophy
