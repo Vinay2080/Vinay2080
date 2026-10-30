@@ -1,33 +1,22 @@
 <div align="center">
 
-# Vinay Patil
-### Backend Software Engineer · Scalable Systems, Security & Developer Tooling
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:3d2fa0,100:6B57FF&height=220&section=header&text=Vinay%20Patil&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20·%20Scalable%20Systems%20·%20Developer%20Tooling&descAlignY=62&descSize=18&animation=fadeIn)
 
-[![Live Application](https://img.shields.io/badge/Live_App-app.verloren.dev-6B57FF?style=flat-square&logo=googlechrome&logoColor=white)](https://app.verloren.dev)
-[![API Documentation](https://img.shields.io/badge/API_Docs-Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://api.verloren.dev/swagger-ui/index.html)
-[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square)](#-connect)
+<p align="center">
+  <a href="https://github.com/Vinay2080">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=6B57FF&center=true&vCenter=true&width=750&lines=🔐+Building+production-grade+auth+systems+%26+IAM;⚡+Java+21+·+Spring+Boot+3+·+Distributed+Systems;🛠️+Compiler+%26+IDE+Tooling+for+JetBrains+Platform;🚀+Shipping+to+production+at+app.verloren.dev;💡+Open+to+Backend+%26+Systems+Engineering+Roles" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.verloren.dev"><img src="https://img.shields.io/badge/Live_App-app.verloren.dev-6B57FF?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://api.verloren.dev/swagger-ui/index.html"><img src="https://img.shields.io/badge/API_Docs-Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black"></a>
+  <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white"></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square"></a>
+</p>
 
 </div>
-
-```bash
-🔴 🟡 🟢 verloren@edge-node-01:~$ curl -s https://api.verloren.dev/system/telemetry | jq .
-{
-  "status": "UP",
-  "kernel": "Java 21 · Spring Boot 3 · Spring Security 6",
-  "deployment": "AWS EC2 [Docker · Redis · PostgreSQL · Flyway]",
-  "security_subsystem": {
-    "auth_tokens": "RSA-2048 Asymmetric Keypair (Key Rotation Enabled)",
-    "session_guard": "SidLivenessFilter [ALL_AUTHENTICATED | MFA_ONLY]",
-    "abuse_control": "Redis + Bucket4j Distributed Token Buckets",
-    "mfa_cipher": "AES-256-GCM Encrypted TOTP + BCrypt Scoped OTPs"
-  },
-  "tooling_subsystem": "Midnight Compact Plugin [IntelliJ SDK · JFlex Lexer · BNF AST]",
-  "load_validation": "k6 Stress Scenarios [Concurrent Auth · Zero Unhandled Crashes]",
-  "target_roles": "Backend Engineering · Scalable Systems & Security · Core Tooling"
-}
-```
 
 ---
 
@@ -108,6 +97,16 @@ I design and build **production-oriented backend systems and developer tooling**
 
 ---
 
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinay2080/Vinay2080/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinay2080/Vinay2080/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Vinay2080/Vinay2080/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
 ### 📊 GitHub Activity & Telemetry
 
 <p align="center">
@@ -137,3 +136,5 @@ I design and build **production-oriented backend systems and developer tooling**
 <div align="center">
 <sub>B.Tech Computer Science · Bajaj Institute of Technology, Wardha (Class of 2027)</sub>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B57FF,50:3d2fa0,100:0D0D12&height=120&section=footer)
