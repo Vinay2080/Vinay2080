@@ -107,7 +107,7 @@ I design and build **production-oriented backend systems and developer tooling**
     <img src="https://img.shields.io/badge/Email-shaking.121%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/vinay-patil" target="_blank">
+  <a href="https://www.linkedin.com/in/vinay-patil-502b7b341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vinay_Patil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
